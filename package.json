@@ -1,6 +1,6 @@
 {
   "name": "leavethemarks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Leave the Mark application",
   "main": "app.js",
   "scripts": {
